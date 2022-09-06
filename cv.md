@@ -2,7 +2,7 @@
 
 ### Beginner Frontend Developer
 
-![Palchyn Volodymyr](https://github.com/drDramen/rsschool-cv/my-foto.jpg)
+<img src="https://github.com/drDramen/rsschool-cv/blob/gh-pages/my-foto.jpg?raw=true" alt="Palchyn Volodymyr" width="250" >
 
 ---
 
